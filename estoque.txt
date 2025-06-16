@@ -1,0 +1,5 @@
+1;Air Max;Nike;599.9;10
+2;null;Adidas;649.9;5
+3;Flyer;Puma;349.9;8
+4;null;Asics;429.9;6
+5;null;New Balance;389.9;4
