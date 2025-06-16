@@ -1,18 +1,1 @@
-# Pata Mansa Store
-
-Este é um **sistema de loja de tênis** desenvolvido como trabalho final da disciplina **Programação de Soluções Computacionais**.
-
-## 📚 Descrição
-
-O Pata Mansa Store é um protótipo de um e-commerce destinado à **venda de tênis**.  
-Com ele, é possível:
-
-- Cadastrar usuários
-- Realizar o login
-- Visualizar uma lista de produtos
-- Adicionar produtos ao carrinho
-- Selecionar o tamanho
-- Quantidade
-- Realizar o pagamento (Boleto, Pix ou Cartão)
-- Ver o histórico de compras já realizadas
-
+Pata Mansa Store é um sistema de loja virtual desenvolvido para a disciplina de Programação de Soluções Computacionais, com foco em modelagem orientada a objetos. O projeto inclui uma estrutura de aulas fundamentais como cliente, produto (tênis), pedido, carrinho e interface de administração, além das respectivas telas de interação.
